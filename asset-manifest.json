@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/courseWebsite/static/css/main.a03d4dcb.chunk.css",
+    "main.js": "/courseWebsite/static/js/main.7399cab4.chunk.js",
+    "main.js.map": "/courseWebsite/static/js/main.7399cab4.chunk.js.map",
+    "runtime-main.js": "/courseWebsite/static/js/runtime-main.93b47e9a.js",
+    "runtime-main.js.map": "/courseWebsite/static/js/runtime-main.93b47e9a.js.map",
+    "static/css/2.da1eef19.chunk.css": "/courseWebsite/static/css/2.da1eef19.chunk.css",
+    "static/js/2.816e7599.chunk.js": "/courseWebsite/static/js/2.816e7599.chunk.js",
+    "static/js/2.816e7599.chunk.js.map": "/courseWebsite/static/js/2.816e7599.chunk.js.map",
+    "static/js/3.d80b4f34.chunk.js": "/courseWebsite/static/js/3.d80b4f34.chunk.js",
+    "static/js/3.d80b4f34.chunk.js.map": "/courseWebsite/static/js/3.d80b4f34.chunk.js.map",
+    "index.html": "/courseWebsite/index.html",
+    "static/css/2.da1eef19.chunk.css.map": "/courseWebsite/static/css/2.da1eef19.chunk.css.map",
+    "static/css/main.a03d4dcb.chunk.css.map": "/courseWebsite/static/css/main.a03d4dcb.chunk.css.map",
+    "static/js/2.816e7599.chunk.js.LICENSE.txt": "/courseWebsite/static/js/2.816e7599.chunk.js.LICENSE.txt",
+    "static/media/cardImg1.4dee5049.jpg": "/courseWebsite/static/media/cardImg1.4dee5049.jpg",
+    "static/media/cardImg2.ac349ee1.jpg": "/courseWebsite/static/media/cardImg2.ac349ee1.jpg",
+    "static/media/cardImg3.be250b2a.jpg": "/courseWebsite/static/media/cardImg3.be250b2a.jpg",
+    "static/media/studyVid.6b938662.mp4": "/courseWebsite/static/media/studyVid.6b938662.mp4"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.93b47e9a.js",
+    "static/css/2.da1eef19.chunk.css",
+    "static/js/2.816e7599.chunk.js",
+    "static/css/main.a03d4dcb.chunk.css",
+    "static/js/main.7399cab4.chunk.js"
+  ]
+}
